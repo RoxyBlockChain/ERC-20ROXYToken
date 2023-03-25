@@ -1,0 +1,26 @@
+
+
+1= 1000000000000000000 is equal to 1 token in Blockchain.
+1.0 for UI
+1 Million= 1*10^6 = 1000000000000000000000000
+
+
+
+1000000000000000000000000
+1000000000000000000
+
+Token Design
+1) initial supply send to owner, 70,000,000 = 70 Million -- [Done]
+2) Capped Max supply,   100,000,000 = 100 Million -- [Done]
+3) Make Token Burnable-- [Done]
+4) BlockRewards
+5) Mint
+
+
+
+
+
+Contract Deploy Address 0x7673410923d1AD2EC3E9b49f6980C85eeaa8DD74
+on Goreli Testnet
+
+0xF0c808C0342AFDc42A2491aA9fD5FfF22F38B6E1
